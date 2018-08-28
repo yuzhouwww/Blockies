@@ -15,3 +15,11 @@ Clone this repo and drag Blockies.* to your project.
 
 UIImage *image = [Blockies getImgWithSeed:@"n1RZfatTFvkXPUa8M9bGJyV8AZmjLQZQzrt"];
 ```
+
+# Author
+
+Zhou Yu, yuzhouwww@gmail.com
+
+# License
+
+Blockies is available under the MIT license. See the LICENSE file for more info.
