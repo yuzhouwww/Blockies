@@ -1,3 +1,9 @@
+<a href="https://github.com/yuzhouwww/Blockies">
+  <p align="center">
+    <img src="blockies.png" width="25%" align="center">
+  </p>
+</a>
+
 # Blockies
 
 This library is an Objective-C implementation of the [Ethereum fork of Blockies](https://github.com/ethereum/blockies) which is intended to be used in iOS, watchOS, tvOS and macOS apps. And the code is literally translated from [BlockiesSwift](https://github.com/Boilertalk/BlockiesSwift).
